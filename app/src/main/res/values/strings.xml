@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerViewEx</string>
+    <string name="add_drop">Add Drop Here</string>
 </resources>
